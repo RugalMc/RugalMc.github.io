@@ -1,2 +1,2 @@
 # RugalMc.github.io
-Mi Portafolio Personal
+MI Portafolio personal
