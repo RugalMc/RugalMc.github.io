@@ -17,16 +17,11 @@ header video {
 
 @media (max-width: 815px) {
 
+
     header video {
-        position: absolute;
-        top: 60%;
-        left: 60%;
-        transform: translate(-60%, -60%);
-        width: 100%;
-        min-width: 100%;
         max-height: 200%;
-        opacity: 0.3;
     }
+    
     .circle {   
         position: absolute;
         width: 90px;
@@ -38,6 +33,12 @@ header video {
     .sas {
         display: flex;
         justify-content: center;
+    }
+}
+
+@media (max-width:425px) {
+    header video {
+        min-width: 150%;
     }
 }
 
