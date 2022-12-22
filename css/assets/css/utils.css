@@ -1,8 +1,13 @@
 .circle {
-    border-radius: 50%;   
+    border-radius: 50%;  
 }
 
-.class-one .class-two{
+.circli {
+    border-radius: 50%;
+}
+
+
+/*.class-one .class-two{
     display: block;
     position: relative;
     margin: 3rem auto;
